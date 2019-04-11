@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049043964569",
+    "firebase_url": "https://myapp-aeca6.firebaseio.com",
+    "project_id": "myapp-aeca6",
+    "storage_bucket": "myapp-aeca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049043964569:android:ca608be6ae340912",
+        "android_client_info": {
+          "package_name": "com.amit.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049043964569-l00q1idrvoe0lnalc5orcifpbpuaua9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amit.myapp",
+            "certificate_hash": "20efb7c74ba787d620f0500729c482e302086b38"
+          }
+        },
+        {
+          "client_id": "1049043964569-6mgkneorngki3212lflj0g2gf8ng62md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5NcOl7llSv_fvwQKePG2p5L11BJMXLLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049043964569-6mgkneorngki3212lflj0g2gf8ng62md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
